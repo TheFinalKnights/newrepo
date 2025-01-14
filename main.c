@@ -13,5 +13,5 @@ int main(int argc, char *argv[]){
 	students[0]=jerome;
 	students[1]=sofie;
 	printf("%s\n%s\n%s\n%.2f\n", students[0].firstname, students[0].lastname, students[0].displayname, students[0].grade);
-	printf("%s\n%s\n%s\n%.2f\n", students[1].firstname, students[1].lastname, students[1].displayname, students[1],grade)'
+	printf("%s\n%s\n%s\n%.2f\n", students[1].firstname, students[1].lastname, students[1].displayname, students[1],grade);
 }
